@@ -1,0 +1,19 @@
+{
+  "name": "travelweb",
+  "version": "1.0.0",
+  "description": "DevOps project-A travel website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shsarv/TravelYaari.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shsarv/TravelYaari/issues"
+  },
+  "homepage": "https://github.com/shsarv/TravelYaari#readme"
+}
